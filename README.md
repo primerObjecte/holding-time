@@ -2,6 +2,7 @@
 
 **Author:** Primer  
 **Date:** 2026-03-29  
+**DOI:** [10.5281/zenodo.19309590](https://doi.org/10.5281/zenodo.19309590)   
 **Repository:** https://github.com/primerObjecte/holding-time
 
 ---
